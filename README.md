@@ -12,6 +12,7 @@
 ## Articles
 
 * https://medium.freecodecamp.org/pragmatic-rules-of-web-accessibility-that-will-stick-to-your-mind-9d3eb85a1a28
+* https://inclusivedesignprinciples.org
 
 ### Performance
 
