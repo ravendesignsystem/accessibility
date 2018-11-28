@@ -22,6 +22,7 @@
 ### Performance
 
 * https://csswizardry.com/2018/11/css-and-network-performance/
+* https://web.dev/reliable
 
 ## Contribution
 
