@@ -25,7 +25,8 @@
 
 * https://csswizardry.com/2018/11/css-and-network-performance/
 * https://web.dev/reliable
-- https://www.youtube.com/watch?v=reztLS3vomE
+* https://www.youtube.com/watch?v=reztLS3vomE
+* https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/
 
 ## Contribution
 
