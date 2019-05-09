@@ -21,6 +21,7 @@
 * https://medium.freecodecamp.org/pragmatic-rules-of-web-accessibility-that-will-stick-to-your-mind-9d3eb85a1a28
 * https://inclusivedesignprinciples.org
 * https://24ways.org/2018/wcag-for-people-who-havent-read-the-update/?utm_source=CSS-Weekly&utm_campaign=Issue-342&utm_medium=RSS
+* https://www.telerik.com/blogs/web-accessibility-for-developers-what-it-is-and-why-its-important-part-i
 
 ### Performance
 
