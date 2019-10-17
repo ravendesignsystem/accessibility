@@ -11,6 +11,7 @@
 * https://web.dev/accessible
 * http://open-indy.github.io/Koa11y/
 * https://accessibilityinsights.io
+* [Things to review](https://www.matuzo.at/blog/beyond-automatic-accessibility-testing-6-things-i-check-on-every-website-i-build/)
 
 ### Color contrast checkers
 
