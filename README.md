@@ -36,4 +36,6 @@
 
 To achieve perfection in this area we need support.
 
-## Report an issue
+## Consideration
+
+* https://zellwk.com/blog/creating-focus-style/
