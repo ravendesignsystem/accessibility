@@ -14,6 +14,10 @@
 * https://a11ysupport.io
 * [Things to review](https://www.matuzo.at/blog/beyond-automatic-accessibility-testing-6-things-i-check-on-every-website-i-build/)
 
+## Hidden
+
+https://cloudfour.com/thinks/see-no-evil-hidden-content-and-accessibility/
+
 ### Color contrast checkers
 
 * https://contrast-ratio.com/#%23767676-on-white
